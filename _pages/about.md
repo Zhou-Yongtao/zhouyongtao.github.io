@@ -76,6 +76,6 @@ redirect_from:
 
 1. Yongtao Zhou, Chengjian Zhang, Convergence and stability of block boundary value methods applied to nonlinear fractional differential equations with Caputo derivatives, Applied Numerical Mathematics, 135 (2019) 367-380.
 
-1. Huiru Wang, Chengjian Zhang, Yongtao Zhou, A class of compact boundary value methods applied to semi-linear reaction-diffusion equations, Applied Mathematics and Computation, 325 (2018) 69-81. [paper](https://github.com/Zhou-Yongtao/zhouyongtao.github.io/blob/master/files/2018A.pdf)
+1. Huiru Wang, Chengjian Zhang, Yongtao Zhou, A class of compact boundary value methods applied to semi-linear reaction-diffusion equations, Applied Mathematics and Computation, 325 (2018) 69-81. [paper](https://www.sciencedirect.com/science/article/pii/S0096300317308925)
 
 
