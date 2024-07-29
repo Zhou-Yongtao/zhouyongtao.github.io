@@ -13,7 +13,7 @@ redirect_from:
 ======
 1. 2020年01月-2023年03月
 
-   中国工程物理研究院--北京计算科学研究中心，博士后，应用与计算数学部，导师：[Martin Stynes](http://www.csrc.ac.cn/en/people/faculty/151.html)
+   中国工程物理研究院-北京计算科学研究中心，博士后，应用与计算数学部，导师：[Martin Stynes](http://www.csrc.ac.cn/en/people/faculty/151.html)
 
 1. 2018年09月-2019年09月
 
@@ -33,15 +33,6 @@ redirect_from:
 
    青岛理工大学，理学院，副教授
 
-授课信息
-======
-1. 2023-2024-春季：
-
-   偏微分方程（数学与应用数学21级，56学时）
-1. 2023-2024-秋季：
-
-   数值分析（数学与应用数学21级，64学时）；数值分析（信息与计算科学21级，56学时）
-
 科研项目
 ======
 1. 2022.01-2024.12
@@ -56,7 +47,29 @@ redirect_from:
 
    带弱奇异核Volterra型方程的分层网格块边值方法，中国博士后科学基金第69批面上资助二等（2021M690322），主持
 
-科研论文
+授课信息
+======
+1. 2023-2024-春季
+
+   偏微分方程（数学与应用数学21级，56学时）
+   
+1. 2023-2024-秋季
+
+   数值分析（数学与应用数学21级，64学时）；数值分析（信息与计算科学21级，56学时）
+
+培养学生
+======
+1. 2023-2024
+
+   本科毕业论文指导学生：陈杰、杨念、齐厚华、王梓源
+
+获得荣誉
+======
+1. 2024年6月
+
+   青岛理工大学本科优秀毕业设计（论文）“校级二等奖”指导教师（学生：陈杰）
+   
+学术论文
 ======
 1. Yongtao Zhou, Hongyu Qin, Martin Stynes, An ⍺-robust error analysis of the \overline{L1} scheme for time-fractional integro-differential initial-boundary value problems, Computers & Mathematics with Applications, 162 (2024) 196-205. [paper](https://www.sciencedirect.com/science/article/pii/S0898122124001226)
 
