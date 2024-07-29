@@ -11,19 +11,24 @@ redirect_from:
 
 教育经历
 ======
-2010年09月-2014年07月 河南大学，学士，专业：数学与应用数学
-
-2014年09月-2019年12月 华中科技大学，博士，专业：计算数学，导师：[张诚坚](http://faculty.hust.edu.cn/zhangchengjian/zh_CN/index.htm)
+2020年01月-2023年03月 中国工程物理研究院--北京计算科学研究中心，博士后，应用与计算数学部，导师：[Martin Stynes](http://www.csrc.ac.cn/en/people/faculty/151.html)
 
 2018年09月-2019年09月 Michigan State University，访问学者，专业：计算数学，导师：Mohsen Zayernouri
 
-2020年01月-2023年03月 中国工程物理研究院--北京计算科学研究中心，博士后，应用与计算数学部，导师：[Martin Stynes](http://www.csrc.ac.cn/en/people/faculty/151.html)
+2014年09月-2019年12月 华中科技大学，博士，专业：计算数学，导师：[张诚坚](http://faculty.hust.edu.cn/zhangchengjian/zh_CN/index.htm)
+
+2010年09月-2014年07月 河南大学，学士，专业：数学与应用数学
+
 
 授课信息
 ======
+2023-2024-春季
+          
+          偏微分方程（数学与应用数学21级，56学时）
+          
 2023-2024-秋季 
+          
           数值分析（数学与应用数学21级，64学时）
           数值分析（信息与计算科学21级，56学时）
 
-2023-2024-春季
-          偏微分方程（数学与应用数学21级，56学时）
+
