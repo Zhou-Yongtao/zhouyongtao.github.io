@@ -11,36 +11,77 @@ redirect_from:
 
 教育经历
 ======
-2020年01月-2023年03月 中国工程物理研究院--北京计算科学研究中心，博士后，应用与计算数学部，导师：[Martin Stynes](http://www.csrc.ac.cn/en/people/faculty/151.html)
+1. 2020年01月-2023年03月 中国工程物理研究院--北京计算科学研究中心，博士后，应用与计算数学部，导师：[Martin Stynes](http://www.csrc.ac.cn/en/people/faculty/151.html)
 
-2018年09月-2019年09月 Michigan State University，访问学者，专业：计算数学，导师：Mohsen Zayernouri
+1. 2018年09月-2019年09月 Michigan State University，访问学者，专业：计算数学，导师：Mohsen Zayernouri
 
-2014年09月-2019年12月 华中科技大学，博士，专业：计算数学，导师：[张诚坚](http://faculty.hust.edu.cn/zhangchengjian/zh_CN/index.htm)
+1. 2014年09月-2019年12月 华中科技大学，博士，专业：计算数学，导师：[张诚坚](http://faculty.hust.edu.cn/zhangchengjian/zh_CN/index.htm)
 
-2010年09月-2014年07月 河南大学，学士，专业：数学与应用数学
+1. 2010年09月-2014年07月 河南大学，学士，专业：数学与应用数学
 
+工作经历
+======
+1. 2023年5月-至今 青岛理工大学，理学院，副教授
 
 授课信息
 ======
 2023-2024-春季：
-
+  
   偏微分方程（数学与应用数学21级，56学时）
           
-2023-2024-秋季：
-    
+2023-2024-秋季：  
+  
   数值分析（数学与应用数学21级，64学时）；
   数值分析（信息与计算科学21级，56学时）
 
 科研项目
 ======
-2022.01-2024.12 带弱奇异核的Volterra积分和积分-微分方程的块边值方法研究，国家自然科学基金青年项目（12101037），主持
+1. 2022.01-2024.12 带弱奇异核的Volterra积分和积分-微分方程的块边值方法研究，国家自然科学基金青年项目（12101037），主持
 
-2022.01-2025.12 分数阶导数问题⍺-鲁棒性数值方法构造与分析，国家自然科学基金面上项目（12171025），第一参与人
+1. 2022.01-2025.12 分数阶导数问题⍺-鲁棒性数值方法构造与分析，国家自然科学基金面上项目（12171025），第一参与人
 
-2021.06-2023.03 带弱奇异核Volterra型方程的分层网格块边值方法，中国博士后科学基金第69批面上资助二等（2021M690322），主持
+1. 2021.06-2023.03 带弱奇异核Volterra型方程的分层网格块边值方法，中国博士后科学基金第69批面上资助二等（2021M690322），主持
 
 科研论文
 ======
+1. Yongtao Zhou, Hongyu Qin, Martin Stynes, An ⍺-robust error analysis of the \overline{L1} scheme for time-fractional integro-differential initial-boundary value problems, Computers & Mathematics with Applications, 162 (2024) 196-205.
 
+1. Yongtao Zhou, Mingzhu Li, Error estimate of a transformed L1 scheme for a multi-term time-fractional diffusion equation by using discrete comparison principle, Mathematics and Computers in Simulation, 217 (2024) 395-404.
+
+1. Wei Xu, Hui Liu, Lijuan Chen, Yongtao Zhou, Ultrafast diffusion modeling via the Riemann–Liouville nonlocal structural derivative and its application in porous media, Fractal and Fractional, 8 (2024) 110.
+
+1. Yongtao Zhou, Cui Li, Martin Stynes, A fast second-order predictor-corrector method for a nonlinear time-fractional Benjamin-Bona-Mahony-Burgers equation, Numerical Algorithms, 95 (2024) 693-720.
+   
+1. Mingzhu Li, Lijuan Chen, Yongtao Zhou, Sinc collocation method to simulate the fractional partial integro-differential equation with a weakly singular kernel, Axioms, 12 (2023) 898.
+
+1. Diandian Huang, Xin Huang, Tingting Qin, Yongtao Zhou, A transformed L1 Legendre-Galerkin spectral method for time fractional Fokker-Planck equations, Networks and Heterogeneous Media, 18 (2023) 799-812.
+
+1. Xinxin Su, Yongtao Zhou, A fast high-order predictor-corrector method on graded meshes for solving fractional differential equations, Fractal and Fractional, 6 (2022) 516.
+
+1. Cui Li, Yongtao Zhou, Block generalized Stormer-Cowell methods applied to second order nonlinear delay differential equations, Applied Numerical Mathematics, 178 (2022) 296-303.   
+
+1. Yongtao Zhou, Martin Stynes, Block boundary value methods for solving linear neutral Volterra integro-differential equations with weakly singular kernels, Journal of Computational and Applied Mathematics, 401 (2022) 113747.
+
+1. Yongtao Zhou, Martin Stynes, Optimal convergence rates in time-fractional discretisations: the L1, \overline{L1} and Alikhanov schemes, East Asian Journal on Applied Mathematics, 12 (2022) 503-520.
+
+1. Yongtao Zhou, Martin Stynes, Block boundary value methods for linear weakly singular Volterra integro-differential equations, BIT Numerical Mathematics, 61 (2021) 691-720.
+
+1. Chengjian Zhang, Yongtao Zhou, A preconditioned implicit difference scheme for semi-linear two-dimensional time-space fractional Fokker-Planck equations, Numerical Linear Algebra with Applications, 28 (2021) e2357.
+
+1. Yongtao Zhou, Chengjian Zhang, Huiru Wang, Boundary value methods for Caputo fractional differential equations, Journal of Computational Mathematics, 39 (2021) 108-129. 
+
+1. Jorge L Suzuki, Yongtao Zhou, Marta D'Elia, Mohsen Zayernouri, A thermodynamically consistent fractional visco-elasto-plastic model with memory-dependent damage for anomalous materials, Computer Methods in Applied Mechanics and Engineering, 373 (2021) 113494.
+
+1. Yongtao Zhou, Chengjian Zhang, Luigi Brugnano, An implicit difference scheme with the KPS preconditioner for two-dimensional time-space fractional convection-diffusion equations, Computers & Mathematics with Applications, 80 (2020) 31-42.
+
+1. Yongtao Zhou, Chengjian Zhang, Luigi Brugnano, Preconditioned quasi-compact boundary value methods for space-fractional diffusion equations, Numerical Algorithms, 84 (2020) 633-649.
+
+1. Yongtao Zhou, Jorge L Suzuki, Chengjian Zhang, Mohsen Zayernouri, Implicit-explicit time integration of nonlinear fractional differential equations, Applied Numerical Mathematics, 156 (2020) 555-583.
+
+1. Yongtao Zhou, Chengjian Zhang, One-leg methods for nonlinear stiff fractional differential equations with Caputo derivatives, Applied Mathematics and Computation, 348 (2019) 594-608.
+
+1. Yongtao Zhou, Chengjian Zhang, Convergence and stability of block boundary value methods applied to nonlinear fractional differential equations with Caputo derivatives, Applied Numerical Mathematics, 135 (2019) 367-380.
+
+1. Huiru Wang, Chengjian Zhang, Yongtao Zhou, A class of compact boundary value methods applied to semi-linear reaction-diffusion equations, Applied Mathematics and Computation, 325 (2018) 69-81.
 
 
