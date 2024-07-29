@@ -38,7 +38,7 @@ redirect_from:
 
 科研论文
 ======
-1. Yongtao Zhou, Hongyu Qin, Martin Stynes, An ⍺-robust error analysis of the \overline{L1} scheme for time-fractional integro-differential initial-boundary value problems, Computers & Mathematics with Applications, 162 (2024) 196-205. [paper](https://github.com/Zhou-Yongtao/zhouyongtao.github.io/blob/master/files/paper1.pdf)
+1. Yongtao Zhou, Hongyu Qin, Martin Stynes, An ⍺-robust error analysis of the \overline{L1} scheme for time-fractional integro-differential initial-boundary value problems, Computers & Mathematics with Applications, 162 (2024) 196-205. [paper](https://github.com/Zhou-Yongtao/zhouyongtao.github.io/blob/master/files/2018 A class of compact boundary value methods applied to semi-linear reaction-diffusion equations.pdf)
 
 1. Yongtao Zhou, Mingzhu Li, Error estimate of a transformed L1 scheme for a multi-term time-fractional diffusion equation by using discrete comparison principle, Mathematics and Computers in Simulation, 217 (2024) 395-404.
 
