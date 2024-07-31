@@ -13,8 +13,8 @@ redirect_from:
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-教育经历
-======
+# 教育经历
+
 1. 2020年01月-2023年03月
 
    中国工程物理研究院-北京计算科学研究中心，博士后，应用与计算数学部，导师：[Martin Stynes](http://www.csrc.ac.cn/en/people/faculty/151.html)
