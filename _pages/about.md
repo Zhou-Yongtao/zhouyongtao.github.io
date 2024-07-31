@@ -68,7 +68,18 @@ redirect_from:
 1. 2024年6月
 
    青岛理工大学本科优秀毕业设计（论文）“校级二等奖”指导教师（学生：陈杰）
-   
+
+学术会议
+======
+1. 2024年7月8日-7月11日
+
+   [8th Conference on Numerical Methods for Fractional-derivative Problems](https://www.csrc.ac.cn/en/event/workshop/2024-02-19/119.html)，北京，计算科学研究中心
+
+2. 2024年4月19日-4月21日
+
+   [2024微分方程数值计算方法及其应用青年学术研讨会](https://math.xtu.edu.cn/info/1057/4307.htm)，湘潭，湘潭大学
+
+
 学术论文
 ======
 1. Yongtao Zhou, Wei Xu. Second-order error analysis of a corrected average finite difference scheme for time-fractional Cable equations with nonsmooth solutions. Mathematics and Computers in Simulation, 2024. [paper](https://www.sciencedirect.com/science/article/abs/pii/S037847542400288X)
