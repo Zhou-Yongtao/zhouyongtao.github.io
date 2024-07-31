@@ -9,12 +9,8 @@ redirect_from:
 
 周永涛，博士，副教授。主要从事分数阶微分方程数值解、分数阶微分方程快速迭代算法、带弱奇异核的Volterra积分-微分方程数值解的研究。
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 🔥 Educations
-
+教育经历
+======
 1. 2020年01月-2023年03月
 
    中国工程物理研究院-北京计算科学研究中心，博士后，应用与计算数学部，导师：[Martin Stynes](http://www.csrc.ac.cn/en/people/faculty/151.html)
@@ -31,14 +27,14 @@ redirect_from:
 
    河南大学，学士，专业：数学与应用数学
 
-# 工作经历
-
+工作经历
+======
 1. 2023年5月-至今
 
    青岛理工大学，理学院，副教授
 
-# 科研项目
-
+科研项目
+======
 1. 2022.01-2024.12
 
    带弱奇异核的Volterra积分和积分-微分方程的块边值方法研究，国家自然科学基金青年项目（12101037），主持
@@ -84,8 +80,8 @@ redirect_from:
    [2024微分方程数值计算方法及其应用青年学术研讨会](https://math.xtu.edu.cn/info/1057/4307.htm)，湘潭，湘潭大学
 
 
-# 📝 Publications 
-
+学术论文
+======
 1. Yongtao Zhou, Wei Xu. Second-order error analysis of a corrected average finite difference scheme for time-fractional Cable equations with nonsmooth solutions. Mathematics and Computers in Simulation, 2024. [paper](https://www.sciencedirect.com/science/article/abs/pii/S037847542400288X)
 
 1. Yongtao Zhou, Hongyu Qin, Martin Stynes. An ⍺-robust error analysis of the \overline{L1} scheme for time-fractional integro-differential initial-boundary value problems. Computers & Mathematics with Applications, 162 (2024) 196-205. [paper](https://www.sciencedirect.com/science/article/pii/S0898122124001226)
