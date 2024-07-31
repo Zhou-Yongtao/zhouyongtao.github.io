@@ -84,8 +84,8 @@ redirect_from:
    [2024微分方程数值计算方法及其应用青年学术研讨会](https://math.xtu.edu.cn/info/1057/4307.htm)，湘潭，湘潭大学
 
 
-学术论文
-======
+# 📝 Publications 
+
 1. Yongtao Zhou, Wei Xu. Second-order error analysis of a corrected average finite difference scheme for time-fractional Cable equations with nonsmooth solutions. Mathematics and Computers in Simulation, 2024. [paper](https://www.sciencedirect.com/science/article/abs/pii/S037847542400288X)
 
 1. Yongtao Zhou, Hongyu Qin, Martin Stynes. An ⍺-robust error analysis of the \overline{L1} scheme for time-fractional integro-differential initial-boundary value problems. Computers & Mathematics with Applications, 162 (2024) 196-205. [paper](https://www.sciencedirect.com/science/article/pii/S0898122124001226)
