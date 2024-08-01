@@ -9,7 +9,7 @@ redirect_from:
 
 周永涛，博士，副教授。主要从事分数阶微分方程数值解、分数阶微分方程快速迭代算法、带弱奇异核的Volterra积分-微分方程数值解的研究。
 
-## <font color="red">教育经历</font> 
+## <font color="blue">教育经历</font> 
 
 
 1. 2020年01月-2023年03月
@@ -28,7 +28,7 @@ redirect_from:
 
    河南大学，学士，专业：数学与应用数学
 
-## <font color="red">工作经历</font> 
+## <font color="blue">工作经历</font> 
 
 1. 2023年5月-至今
 
@@ -39,7 +39,7 @@ redirect_from:
 
 # 教学活动
 
-## <font color="red">授课信息</font> 
+## <font color="blue">授课信息</font> 
 
 1. 2023-2024-春季
 
@@ -49,13 +49,13 @@ redirect_from:
 
    数值分析（数学与应用数学21级，64学时）；数值分析（信息与计算科学21级，56学时）
 
-## <font color="red">培养学生</font> 
+## <font color="blue">培养学生</font> 
 
 1. 2023-2024
 
    本科毕业论文指导学生：陈杰、杨念、齐厚华、王梓源
 
-## <font color="red">获得荣誉</font> 
+## <font color="blue">获得荣誉</font> 
 
 1. 2024年6月
 
@@ -65,7 +65,7 @@ redirect_from:
 
 # 科研活动
 
-## <font color="red">科研项目</font> 
+## <font color="blue">科研项目</font> 
 
 1. 2022.01-2024.12
 
@@ -79,7 +79,7 @@ redirect_from:
 
    带弱奇异核Volterra型方程的分层网格块边值方法，中国博士后科学基金第69批面上资助二等（2021M690322），主持
 
-## <font color="red">参加会议</font> 
+## <font color="blue">参加会议</font> 
 
 1. 2024年7月8日-7月11日
 
@@ -90,7 +90,7 @@ redirect_from:
    [2024微分方程数值计算方法及其应用青年学术研讨会](https://math.xtu.edu.cn/info/1057/4307.htm)，湘潭，湘潭大学
 
 
-## <font color="red">学术论文</font> 
+## <font color="blue">学术论文</font> 
 
 1. Yongtao Zhou, Wei Xu. Second-order error analysis of a corrected average finite difference scheme for time-fractional Cable equations with nonsmooth solutions. Mathematics and Computers in Simulation, 2024. [paper](https://www.sciencedirect.com/science/article/abs/pii/S037847542400288X)
 
