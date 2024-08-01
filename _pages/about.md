@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "个人简介"
+title: " "
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,7 +9,9 @@ redirect_from:
 
 周永涛，博士，副教授。主要从事分数阶微分方程数值解、分数阶微分方程快速迭代算法、带弱奇异核的Volterra积分-微分方程数值解的研究。
 
-## <font color="blue">教育经历</font> 
+# <font color="blue">个人简介</font> 
+
+## 教育经历
 
 
 1. 2020年01月-2023年03月
