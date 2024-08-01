@@ -37,7 +37,7 @@ redirect_from:
 📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖
 
 
-# <font color="red">教学活动</font> 
+# 教学活动
 
 ## <font color="red">授课信息</font> 
 
@@ -63,7 +63,7 @@ redirect_from:
 
 📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖
 
-# *<font color="red">科研活动</font> 
+# 科研活动
 
 ## <font color="red">科研项目</font> 
 
