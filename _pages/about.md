@@ -9,13 +9,8 @@ redirect_from:
 
 周永涛，博士，副教授。主要从事分数阶微分方程数值解、分数阶微分方程快速迭代算法、带弱奇异核的Volterra积分-微分方程数值解的研究。
 
-_______________________
-_______________________
-***********************
-🎖🎖🎖🎖🎖🎖🎖🎖🎖🎖
-
-# 教育经历 
-
+教育经历 
+======
 1. 2020年01月-2023年03月
 
    中国工程物理研究院-北京计算科学研究中心，博士后，应用与计算数学部，导师：[Martin Stynes](http://www.csrc.ac.cn/en/people/faculty/151.html)
@@ -32,18 +27,45 @@ _______________________
 
    河南大学，学士，专业：数学与应用数学
 
-🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥
-
 工作经历
 ======
 1. 2023年5月-至今
 
    青岛理工大学，理学院，副教授
 
-📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖
+📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖
 
-科研项目
-======
+
+# 教学活动
+
+## 授课信息
+
+1. 2023-2024-春季
+
+   偏微分方程（数学与应用数学21级，56学时）
+   
+1. 2023-2024-秋季
+
+   数值分析（数学与应用数学21级，64学时）；数值分析（信息与计算科学21级，56学时）
+
+## 培养学生
+
+1. 2023-2024
+
+   本科毕业论文指导学生：陈杰、杨念、齐厚华、王梓源
+
+## 获得荣誉
+
+1. 2024年6月
+
+   青岛理工大学本科优秀毕业设计（论文）“校级二等奖”指导教师（学生：陈杰）
+
+📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖
+
+# 科研活动
+
+## 科研项目
+
 1. 2022.01-2024.12
 
    带弱奇异核的Volterra积分和积分-微分方程的块边值方法研究，国家自然科学基金青年项目（12101037），主持
@@ -56,32 +78,8 @@ _______________________
 
    带弱奇异核Volterra型方程的分层网格块边值方法，中国博士后科学基金第69批面上资助二等（2021M690322），主持
 
-📝📝📝📝📝📝📝📝📝📝📝📝📝📝📝📝📝📝📝📝📝📝📝📝📝📝📝📝📝📝📝📝
+## 参加会议
 
-授课信息
-======
-1. 2023-2024-春季
-
-   偏微分方程（数学与应用数学21级，56学时）
-   
-1. 2023-2024-秋季
-
-   数值分析（数学与应用数学21级，64学时）；数值分析（信息与计算科学21级，56学时）
-
-培养学生
-======
-1. 2023-2024
-
-   本科毕业论文指导学生：陈杰、杨念、齐厚华、王梓源
-
-获得荣誉
-======
-1. 2024年6月
-
-   青岛理工大学本科优秀毕业设计（论文）“校级二等奖”指导教师（学生：陈杰）
-
-参加会议
-======
 1. 2024年7月8日-7月11日
 
    [8th Conference on Numerical Methods for Fractional-derivative Problems](https://www.csrc.ac.cn/en/event/workshop/2024-02-19/119.html)，北京，计算科学研究中心
@@ -91,8 +89,8 @@ _______________________
    [2024微分方程数值计算方法及其应用青年学术研讨会](https://math.xtu.edu.cn/info/1057/4307.htm)，湘潭，湘潭大学
 
 
-学术论文
-======
+## 学术论文
+
 1. Yongtao Zhou, Wei Xu. Second-order error analysis of a corrected average finite difference scheme for time-fractional Cable equations with nonsmooth solutions. Mathematics and Computers in Simulation, 2024. [paper](https://www.sciencedirect.com/science/article/abs/pii/S037847542400288X)
 
 1. Yongtao Zhou, Hongyu Qin, Martin Stynes. An ⍺-robust error analysis of the \overline{L1} scheme for time-fractional integro-differential initial-boundary value problems. Computers & Mathematics with Applications, 162 (2024) 196-205. [paper](https://www.sciencedirect.com/science/article/pii/S0898122124001226)
