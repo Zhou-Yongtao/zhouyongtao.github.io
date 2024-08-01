@@ -1,8 +1,9 @@
 # main links links
  main:
+
+   - title: "教育经历"
+    url: /#教育经历
      
-  - title: "教育经历"
-    url: /教育经历/
 
 #  - title: "Talks"
 #    url: /talks/    
