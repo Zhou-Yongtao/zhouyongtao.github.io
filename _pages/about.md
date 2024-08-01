@@ -28,7 +28,7 @@ redirect_from:
 
    河南大学，学士，专业：数学与应用数学
 
-## 工作经历<font color="red">教育经历</font> 
+## <font color="red">工作经历</font> 
 
 1. 2023年5月-至今
 
