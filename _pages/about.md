@@ -91,8 +91,7 @@ redirect_from:
 
 2. 2024年4月19日-4月21日
 
-   [2024微分方程数值计算方法及其应用青年学术研讨会](https://math.xtu.edu.cn/info/1057/4307.htm)，湘潭，湘潭大学
-
+   [2024微分方程数值计算方法及其应用青年学术研讨会](https://math.xtu.edu.cn/info/1057/4307.htm)，湘潭，湘潭大学，报告题目：Second-order error analysis for fractional reaction-subdiffusion equations with nonsmooth solutions
 
 ## 学术论文 
 ( * 表示通讯作者)
