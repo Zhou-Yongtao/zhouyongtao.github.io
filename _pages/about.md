@@ -45,6 +45,10 @@ redirect_from:
 
 ## 授课信息
 
+1. 2024-2025-春季
+
+   线性代数（机械与汽车工程学院，40学时）
+
 1. 2024-2025-秋季
 
    数值分析（数学与应用数学22级，64学时）；数值分析（信息与计算科学22级，56学时）；数值分析（工程力学22级，32学时）
@@ -59,21 +63,42 @@ redirect_from:
 
 ## 培养学生
 
+1. 2024-2025
+
+   本科毕业论文指导学生：蔡隆博、王蕊、刘兰欣、赵修平、王兆淇、闫鹤祥
+
 1. 2023-2024
 
    本科毕业论文指导学生：陈杰、杨念、齐厚华、王梓源
 
 ## 获得荣誉 
 
+1. 2024年12月
+
+   山东省大学生数学竞赛本科组数学B类“三等奖”指导老师（学生：王帆）
+
+1. 2024年12月
+
+   山东省大学生数学竞赛本科组数学B类“二等奖”指导老师（学生：许本源）
+
 1. 2024年6月
 
    青岛理工大学本科优秀毕业设计（论文）“校级二等奖”指导教师（学生：陈杰）
+
+## 教研项目
+
+1. 青岛理工大学一流本科课程《数值分析》，成员：周永涛、高峰
 
 📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖
 
 # <font color="blue">科研活动</font> 
 
 ## 科研项目
+
+1. 2025.01-2027.12
+
+   <!-- 科学计算与工程应用创新团队，黄河中下游沉积物中重金属反常扩散建模及仿真研究，-->
+   山东省高等学校青年创新团队项目，带头人；团队成员：徐伟、陈虎、张晓钰、王勇、蔡雨婷、于浩
 
 1. 2025.01-2027.12
 
@@ -97,16 +122,22 @@ redirect_from:
 
 ## 参加会议 
 
+1. 2024年10月18日-10月20日
+
+   [华中科技大学学术交流](https://maths.hust.edu.cn/info/1293/11579.htm)，武汉，华中科技大学，邀请人：张诚坚教授
+
 1. 2024年7月8日-7月11日
 
    [8th Conference on Numerical Methods for Fractional-derivative Problems](https://www.csrc.ac.cn/en/event/workshop/2024-02-19/119.html)，北京，计算科学研究中心
 
-2. 2024年4月19日-4月21日
+1. 2024年4月19日-4月21日
 
    [2024微分方程数值计算方法及其应用青年学术研讨会](https://math.xtu.edu.cn/info/1057/4307.htm)，湘潭，湘潭大学，报告题目：Second-order error analysis for fractional reaction-subdiffusion equations with nonsmooth solutions
 
 ## 学术论文 
 (* 表示通讯作者)
+1. Yongtao Zhou, Hongyu Qin, Martin Stynes*. A second-order implicit-explicit (IMEX) method on graded meshes for nonlinear time-fractional reaction-subdiffusion problems. Calcolo, 62 (2025) 10. [paper](https://link.springer.com/article/10.1007/s10092-025-00634-3)
+
 1. Yongtao Zhou, Wei Xu*. Second-order error analysis of a corrected average finite difference scheme for time-fractional Cable equations with nonsmooth solutions. Mathematics and Computers in Simulation, 226 (2024) 631-644. [paper](https://www.sciencedirect.com/science/article/abs/pii/S037847542400288X)
 
 1. Yongtao Zhou, Hongyu Qin, Martin Stynes*. An ⍺-robust error analysis of the \overline{L1} scheme for time-fractional integro-differential initial-boundary value problems. Computers & Mathematics with Applications, 162 (2024) 196-205. [paper](https://www.sciencedirect.com/science/article/pii/S0898122124001226)
