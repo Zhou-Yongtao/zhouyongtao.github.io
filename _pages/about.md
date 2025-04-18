@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 周永涛，博士，副教授。主要从事分数阶微分方程数值解、分数阶微分方程快速迭代算法、带弱奇异核的Volterra积分-微分方程数值解的研究。![](https://komarev.com/ghpvc/?username=zhouyongtao)
+![](https://komarev.com/ghpvc/?username=zhouyongtao&color=green)
 
 
 📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖
