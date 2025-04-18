@@ -7,8 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-周永涛，博士，副教授。主要从事分数阶微分方程数值解、分数阶微分方程快速迭代算法、带弱奇异核的Volterra积分-微分方程数值解的研究。![](https://komarev.com/ghpvc/?username=zhouyongtao)
-![](https://komarev.com/ghpvc/?username=zhouyongtao&color=brightgreen)
+周永涛，博士，副教授。主要从事分数阶微分方程数值解、分数阶微分方程快速迭代算法、带弱奇异核的Volterra积分-微分方程数值解的研究。
 
 
 📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖📖
@@ -187,6 +186,6 @@ redirect_from:
 1. Huiru Wang, Chengjian Zhang*, Yongtao Zhou. A class of compact boundary value methods applied to semi-linear reaction-diffusion equations. Applied Mathematics and Computation, 325 (2018) 69-81. [paper](https://www.sciencedirect.com/science/article/pii/S0096300317308925)
 
 ----------
-# <font color="red">访客地图</font> 
+# <font color="red">访问人数</font> 
 
-<script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=54e0ojatafc&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script>
+![](https://komarev.com/ghpvc/?username=zhouyongtao&color=brightgreen)
