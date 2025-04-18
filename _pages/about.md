@@ -186,4 +186,4 @@ redirect_from:
 1. Huiru Wang, Chengjian Zhang*, Yongtao Zhou. A class of compact boundary value methods applied to semi-linear reaction-diffusion equations. Applied Mathematics and Computation, 325 (2018) 69-81. [paper](https://www.sciencedirect.com/science/article/pii/S0096300317308925)
 
 ----------
-# <font color="red">访问人数</font> ![](https://komarev.com/ghpvc/?username=zhouyongtao&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=zhouyongtao&color=brightgreen)
