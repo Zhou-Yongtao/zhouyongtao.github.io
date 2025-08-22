@@ -132,6 +132,10 @@ redirect_from:
 
 ## 参加会议 
 
+1. 2025年8月17日-8月21日
+
+   [第十四届中国数学会计算数学年会](https://www.hunnu.edu.cn/info/1012/20849.htm)，长沙，湖南师范大学，报告题目：A meshless method based on the generalized finite difference method and \overline{L1} method for solving a time-fractional advection-diffusion equation
+
 1. 2025年7月10日-7月13日
 
    中国仿真学会仿真算法专业委员会第九届委员代表大会暨仿真算法学术交流会，上海，上海师范大学
