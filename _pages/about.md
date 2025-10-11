@@ -156,8 +156,20 @@ redirect_from:
 
 1. 陈丽娟, 张蕾, 王丽莎, 李明珠, 周永涛, 徐伟. [计算方法](http://m.cmpedu.com/books/book/5608568.htm). 北京: 机械工业出版社, 2024.10.
 
+## 发明专利
+
+1. 周永涛, 黄珊, 耿研霏, 郭宗灿, 苏欣欣, 徐伟, 一种作物产量最大化的生产方式确定方法及系统, ZL202510818253.8
+
+1. 徐伟, 刘慧, 周永涛, 张华伟, 赵世军, 缪玉松, 锂电池充放电过程锂离子扩散系数预测方法及系统, ZL202510404064.6
+
+1. 徐伟, 刘慧, 张华伟, 赵世军, 周永涛, 李明珠, 预测铜离子在铜铝固-液界面特快扩散的方法及系统, ZL202510404061.2
+
+1. 陈丽娟, 李明珠, 白著华, 张森, 李洋, 周永涛, 宋慧, 一种机场出租车载客分配方法及系统, ZL202510628144.X
+
 ## 学术论文 
 (* 表示通讯作者)
+1. Huiru Wang, Yongtao Zhou, Wenzhuo Xiong*, Xiaoqiang Yan. Generalized Stormer-Cowell methods for the nonlinear second-order delay integro-diﬀerential equations with initial conditions. Applied Mathematics and Computation, (2025).
+
 1. Yongtao Zhou, Hongyu Qin, Martin Stynes*. A second-order implicit-explicit (IMEX) method on graded meshes for nonlinear time-fractional reaction-subdiffusion problems. Calcolo, 62 (2025) 10. [paper](https://link.springer.com/article/10.1007/s10092-025-00634-3)
 
 1. Yongtao Zhou, Wei Xu*. Second-order error analysis of a corrected average finite difference scheme for time-fractional Cable equations with nonsmooth solutions. Mathematics and Computers in Simulation, 226 (2024) 631-644. [paper](https://www.sciencedirect.com/science/article/abs/pii/S037847542400288X)
@@ -201,5 +213,3 @@ redirect_from:
 1. Yongtao Zhou, Chengjian Zhang*. Convergence and stability of block boundary value methods applied to nonlinear fractional differential equations with Caputo derivatives. Applied Numerical Mathematics, 135 (2019) 367-380. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0168927418302071)
 
 1. Huiru Wang, Chengjian Zhang*, Yongtao Zhou. A class of compact boundary value methods applied to semi-linear reaction-diffusion equations. Applied Mathematics and Computation, 325 (2018) 69-81. [paper](https://www.sciencedirect.com/science/article/pii/S0096300317308925)
-
-
