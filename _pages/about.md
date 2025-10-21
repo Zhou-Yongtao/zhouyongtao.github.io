@@ -179,7 +179,7 @@ redirect_from:
 
 ## 学术论文 
 (* 表示通讯作者)
-1. Huiru Wang, Yongtao Zhou, Wenzhuo Xiong*, Xiaoqiang Yan. Generalized Stormer-Cowell methods for the nonlinear second-order delay integro-diﬀerential equations with initial conditions. Applied Mathematics and Computation, (2025).
+1. Huiru Wang, Yongtao Zhou, Wenzhuo Xiong*, Xiaoqiang Yan. Generalized Stormer-Cowell methods for the nonlinear second-order delay integro-diﬀerential equations with initial conditions. Applied Mathematics and Computation, 512 (2026) 129771. [paper](https://www.sciencedirect.com/science/article/pii/S0096300325004965)
 
 1. Yongtao Zhou, Hongyu Qin, Martin Stynes*. A second-order implicit-explicit (IMEX) method on graded meshes for nonlinear time-fractional reaction-subdiffusion problems. Calcolo, 62 (2025) 10. [paper](https://link.springer.com/article/10.1007/s10092-025-00634-3)
 
