@@ -226,6 +226,8 @@ redirect_from:
 
 ## 学术论文 
 (* 表示通讯作者)
+1. Xinru Chen, Mingzhu Li, Wei Xu, Yongtao Zhou*. Numerical solution of the ultraslow diffusion equation with non-local structural derivative. Communications on Applied Mathematics and Computation, (2026) https://doi.org/10.1007/s42967-026-00628-0. [paper](https://link.springer.com/article/10.1007/s42967-026-00628-0)
+
 1. 周永涛, 蔡隆博*. 多项时间分数阶Allen-Cahn方程能量稳定且保最大值原理的二阶 \overline{L1} 方法. 计算方法, 48 (2026) 587-603. [paper](https://computmath.cjoe.ac.cn/jssx/CN/10.12286/jssx.j2024-1246)
 
 1. Huiru Wang, Xiujun Cheng, Cui Li, Yongtao Zhou*. Block boundary value methods for nonlinear delay singular IVPs. Applied Numerical Mathematics, 229 (2026) 107–119. [paper](https://www.sciencedirect.com/science/article/pii/S0168927426001297?dgcid=author)
